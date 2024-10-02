@@ -1,0 +1,15 @@
+%% Part 0
+a=5;
+b=20;
+c=sqrt(a)*b;
+display(c)
+
+d=20
+
+%% Part 1
+
+% Q1
+n_seqs = 4^12; 
+display(n_seqs)
+questions.q1 = n_seqs; 
+disp(n_seqs)
