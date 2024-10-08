@@ -1,10 +1,13 @@
 %% Part 0
 a=5;
+A=1
+a+A
 b=20;
 c=sqrt(a)*b;
-display(c)
+disp(c)
 
 d=20
+
 
 %% Part 1
 
